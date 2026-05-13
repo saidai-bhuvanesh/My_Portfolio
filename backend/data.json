@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "AI Job Scraper & Opportunity Tracker",
+    "desc": "Built an automated scraping system aggregating 1,000+ listings with smart filtering by role, skills, and location, improving relevance by 40%.",
+    "tech": ["Python", "REST APIs", "BeautifulSoup"],
+    "link": "#",
+    "github": "https://github.com/bhuviguru/ai-job-scraper",
+    "image": "/assets/project1.png"
+  },
+  {
+    "id": 2,
+    "title": "TechCRM - Customer Relationship Management",
+    "desc": "Engineered a full-stack CRM to manage customer data and leads, improving team workflow efficiency by 30% through structured data handling and dashboard UI.",
+    "tech": ["Node.js", "Express", "React", "MongoDB"],
+    "link": "#",
+    "github": "https://github.com/bhuviguru/techcrm",
+    "image": "/assets/project2.png"
+  },
+  {
+    "id": 3,
+    "title": "InternFinder - Internship Discovery Platform",
+    "desc": "Built a responsive platform aggregating internship listings from multiple sources. Reduced discovery time with domain-based filtering and centralized search.",
+    "tech": ["JavaScript", "HTML/CSS", "APIs"],
+    "link": "#",
+    "github": "https://github.com/bhuviguru/internfinder",
+    "image": "/assets/project3.png"
+  },
+  {
+    "id": 4,
+    "title": "Weather App - Real-Time Dashboard",
+    "desc": "Developed a real-time weather app consuming a live REST API with a 5-day forecast display, featuring a mobile-responsive UI and dynamic data rendering.",
+    "tech": ["JavaScript", "REST API", "CSS Grid"],
+    "link": "#",
+    "github": "https://github.com/bhuviguru/weather-app",
+    "image": "/assets/project4.png"
+  }
+]

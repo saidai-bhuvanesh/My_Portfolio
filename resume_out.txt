@@ -1,0 +1,40 @@
+Bhuvanesh S
+/envel⌢pebhuvanesh0709@gmail.com |/linkedin-inlinkedin.com/in/bhuvanesh0709 |/githubgithub.com/bhuviguru |♂phone+91 93634 45366
+Education
+Vel Tech High Tech Dr. Rangarajan Dr. Sakunthala Engineering College 2024 – 2028
+B.Tech in Artificial Intelligence and Data Science CGPA: 8.5
+S S Higher Secondary School 2016 – 2024
+Skills
+Languages Python, Java, JavaScript
+Frontend HTML, CSS, JavaScript, React Native, Flutter
+Backend Node.js, Express.js, REST APIs
+ML / Data NumPy, Pandas, Scikit-learn
+Tools Git, GitHub, VS Code
+Core Data Structures, Algorithms, Problem Solving
+Achievements
+•Winner – Aestr Alpha AI Summit Hackathon 2025
+•Runner-Up – Ideaforge 3.0 Hackathon 2025
+•Finalist in 3+ national-level hackathons with consistent AI-based solutions
+•Grew 130K+ LinkedIn reach and2000+ connections via technical AI content
+Experience
+Machine Learning Intern ·National Small Industries Corporation (NSIC) Jun – Jul 2025
+•Built classification and regression models using Scikit-learn, improving accuracy by 18%
+•Reduced model error by 15–20% through feature engineering and data preprocessing
+•Executed end-to-end ML pipelines from data ingestion to evaluation using industry practices
+Projects
+AI Job Scraper & Opportunity Tracker View Code
+•Built automated scraping system using Python and REST APIs, aggregating 1,000+ listings
+•Implemented smart filtering by role, skills, and location – improving relevance by 40%
+TechCRM – Customer Relationship Management System View Code
+•Engineered full-stack CRM to manage customer data, leads, and communication records
+•Improved team workflow efficiency by 30% through structured data handling and dashboard UI
+InternFinder – Internship Discovery Platform View Code
+•Built responsive platform aggregating internship listings from multiple sources
+•Reduced discovery time with domain-based filtering and centralized search interface
+Weather App – Real-Time Weather Dashboard View Code
+•Developed real-time weather app consuming live REST API with 5-day forecast display
+•Built mobile-responsive UI using HTML, CSS, and JavaScript with dynamic data rendering
+Certifications
+Azure AI Fundamentals: Machine Learning with Azure Services – Infosys Springboard View
+Mathematical Biostatistics Boot Camp 1 – Johns Hopkins University (Coursera) View
+Intro to Big Data, Data Science and Artificial Intelligence – Udemy View
